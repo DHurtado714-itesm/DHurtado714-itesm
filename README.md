@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Bases, Backend
 - 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate on Alcancia
+- 👯 I’m collaborating on Alcancia
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Data Science
 - 📫 How to reach me: Linkeding
