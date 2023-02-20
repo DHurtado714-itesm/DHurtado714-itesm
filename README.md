@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m collaborating on Alcancia
 - 🤔 I’m looking for help with Flutter and React
 - 💬 Ask me about Data Science
-- 📫 How to reach me: LinkedIN
+- 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: Gym, Sports, Racing.
 
 
