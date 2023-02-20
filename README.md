@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Data Bases, Backend
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently working on Data Science, Backend, WebDev
+- 🌱 I’m currently learning Backend, WebDev
 - 👯 I’m collaborating on Alcancia
-- 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with Flutter and React
 - 💬 Ask me about Data Science
-- 📫 How to reach me: Linkeding
+- 📫 How to reach me: LinkedIN
 - ⚡ Fun fact: Gym, Sports, Racing.
 
 
