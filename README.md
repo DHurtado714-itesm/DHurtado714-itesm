@@ -7,13 +7,22 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Data Science, Backend, WebDev
-- 🌱 I’m currently learning Backend, WebDev
+- 🔭 I’m currently working on Backend, WebDev, MobileDev
+- 🌱 I’m currently learning Backend, MobileDev
 - 👯 I’m collaborating on Alcancia
-- 🤔 I’m looking for help with Flutter and React
+- 🤔 I’m looking for help with NestJs, Docker
 - 💬 Ask me about Data Science
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: Gym, Sports, Racing.
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DHurtado714-itesm/DHurtado714-itesm/output/snake.svg" alt="Snake animation" />
+
+
+###
 
 
 
@@ -33,13 +42,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DHurtado714-itesm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHurtado714-itesm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DHurtado714-itesm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=DHurtado714-itesm&icon=0&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DHurtado714-itesm/count.svg?"  />
+</div>
 
+##
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
