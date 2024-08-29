@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🚀Some Tools I Use 🧑🏻‍🚀
 
 <p align="left">    
-    <img src="https://skillicons.dev/icons?i=aws,arduino,cpp,docker,git,github,go,graphql,html,js,jest,linux,mysql,nextjs,nodejs,postman,prisma,py,react,sequelize,swift,tailwind,ts,unity,vercel,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=appwrite,aws,docker,express,fastapi,firebase,flask,git,github,githubactions,go,graphql,html,js,jest,linux,mysql,nestjs,nextjs,nginx,nodejs,notion,pnpm,postgres,postman,prisma,py,react,swift,tailwind,ts,vercel,vite,vscode&theme=dark" />
 </p>
 
 
