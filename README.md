@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 
-# 📊 GitHub Stats:
-<script src="https://gist.github.com/DHurtado714-itesm/2ac98b1fe855f38dc7c050d95e2a325c.js"></script>
+<!--# 📊 GitHub Stats:-->
 
 ---
 <div align="center">
