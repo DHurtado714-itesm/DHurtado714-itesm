@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DHurtado714-itesm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DHurtado714-itesm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHurtado714-itesm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<script src="https://gist.github.com/DHurtado714-itesm/6a85117d3bf6378a8c99f854c5e496c6.js"></script>
 
 ---
 <div align="center">
