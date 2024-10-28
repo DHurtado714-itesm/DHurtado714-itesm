@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Backend, WebDev, MobileDev
 - 🌱 I’m currently learning Backend, MobileDev
-- 👯 I’m collaborating on Alcancia
+- 👯 I’m collaborating on Capa
 - 🤔 I’m looking for help with NestJs, Docker
-- 💬 Ask me about Data Science
+- 💬 Ask me about Backend and Cloud Computing
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: Gym, Sports, Racing.
 
